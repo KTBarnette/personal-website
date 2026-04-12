@@ -50,7 +50,8 @@ export const projects: Project[] = [
       "Controlled for data leakage risk while keeping synthetic outputs statistically meaningful enough for practical experimentation.",
     links: [
       { label: "Case Study", href: "/projects/tabdiff-study" },
-      { label: "Research Notes", href: "https://github.com/KTBarnette?tab=repositories", external: true }
+      { label: "Research Notes", href: "/projects/tabdiff-study/notes" },
+      { label: "GitHub", href: "https://github.com/KTBarnette?tab=repositories", external: true }
     ]
   },
   {

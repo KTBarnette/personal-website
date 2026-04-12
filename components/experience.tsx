@@ -4,7 +4,11 @@ import { profile } from "@/data/profile";
 export function Experience() {
   return (
     <section className="section-wrap reveal [animation-delay:360ms]">
-      <SectionHeading eyebrow="Experience" title="Recent Work" subtitle="Short, direct highlights with production impact." />
+      <SectionHeading
+        eyebrow="Experience"
+        title="Recent Work"
+        subtitle="Hands-on engineering across backend systems, reliability debugging, and open-source collaboration."
+      />
 
       <div className="grid gap-3 md:grid-cols-2">
         {profile.experience.map((entry) => (

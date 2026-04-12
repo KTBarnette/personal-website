@@ -40,24 +40,33 @@ export const profile = {
     {
       role: "Systems Evaluator",
       company: "Outlier AI",
-      timeframe: "Recent",
+      timeframe: "2025 - 2026",
       bullets: [
-        "Evaluated model and software-system behavior using structured, repeatable test workflows.",
-        "Debugged pipeline issues and documented failure modes with clear recommendations.",
-        "Delivered analysis that improved reliability and decision confidence."
+        "Evaluated model and software-system behavior using structured, repeatable testing workflows.",
+        "Investigated pipeline failures, reproduced edge cases, and documented root causes for faster remediation.",
+        "Delivered reliability-focused analysis that improved release confidence for downstream stakeholders."
       ]
     },
     {
       role: "R&D Contributor",
       company: "Deepiri (Open Source)",
-      timeframe: "Current",
+      timeframe: "2025 - Present",
       bullets: [
-        "Contributed backend and DevOps improvements to an active open-source codebase.",
-        "Collaborated with maintainers through issues, pull requests, and peer review.",
-        "Focused on practical engineering wins: reliability, deployability, and maintainability."
+        "Contributed backend and DevOps improvements in an active open-source codebase.",
+        "Worked through issues and PR review loops with maintainers to ship stable, maintainable changes.",
+        "Improved deployment reliability and developer ergonomics through practical engineering refinements."
       ]
     }
   ],
+  collaborationHighlights: [
+    "Open to backend, API, and full-stack engineering opportunities",
+    "Comfortable joining existing teams and ramping quickly on production codebases",
+    "Best fit: projects that value reliability, ownership, and clear communication"
+  ],
+  contactNotes: {
+    availability: "Actively open to interviews, contract work, and full-time software engineering roles.",
+    responseTime: "Typical response time: within 24 hours."
+  },
   currentlyBuilding: [
     "Contributing to Deepiri open-source engineering work",
     "Running a churn prediction study using synthetic data",
